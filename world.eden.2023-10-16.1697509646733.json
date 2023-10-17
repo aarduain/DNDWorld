@@ -1,0 +1,25 @@
+{
+  "title": "Ballad For The Lost",
+  "id": "world.eden.2023-10-16.1697509646733",
+  "system": "dnd5e",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 13335626,
+  "note": "Backup-1",
+  "snapshotId": null,
+  "originalSize": 24543996,
+  "createdAt": 1697509646733,
+  "packageId": "eden",
+  "type": "world"
+}
